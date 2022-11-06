@@ -7,7 +7,6 @@ input:active + label, label[for]:focus, label[for]:active {
 color: #FFF !important;
 background-color: #BB3D2F !important;}
 
-div#formcol1 input.reqfield {
 	background: green;
 }
 #wrapper {
