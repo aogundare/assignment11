@@ -22,6 +22,9 @@ div#formcol1 {
     text-align: right;
 }
 
+div#formcol1 input.reqfield {
+	background: #FF9;
+}
 
 /* end of form css */
 	
