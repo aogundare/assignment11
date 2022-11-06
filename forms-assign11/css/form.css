@@ -2,7 +2,7 @@
 
 
 /* form styling */
-select:focus, select:active, input:focus, input:active, input:focus + label, 
+#select:focus, select:active, input:focus, input:active, input:focus + label, 
 input:active + label, label[for]:focus, label[for]:active {
 color: #FFF !important;
 background-color: #BB3D2F !important;}
@@ -19,7 +19,7 @@ div#formcol1 {
 	float:left;	
 	width: 100%;
 }
-label {
+#proposal2020 {
     text-align: right;
 }
 
