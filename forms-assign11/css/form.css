@@ -8,7 +8,7 @@ color: #FFF !important;
 background-color: #BB3D2F !important;}
 
 div#formcol1 input.reqfield {
-	background: #FF9;
+	background: green;
 }
 #wrapper {
 	width: 60%;
